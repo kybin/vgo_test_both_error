@@ -1,1 +1,1 @@
-module "github.com/kybin/vgo_test_both_error
+moule "github.com/kybin/vgo_test_both_error
